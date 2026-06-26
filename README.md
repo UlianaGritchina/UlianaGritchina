@@ -6,5 +6,5 @@
 ### World Words
 An iOS app for learning vocabulary using flashcards.
 
-- **Features:** Flashcards, spaced repetition, vocabulary learning.
+- **Features:** Flashcards, spaced repetition, vocabulary learning, tests, ui customisatoin.
 - **App Store:** https://apps.apple.com/ru/app/world-words/id1670569128

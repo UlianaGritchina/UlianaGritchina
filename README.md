@@ -1,5 +1,5 @@
 ## iOS Developer
-**iOS developer with 4 years of commercial work experience.**
+** 4 years of commercial work experience.**
 
 ### My Own Apps on the App Store
 

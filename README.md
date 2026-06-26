@@ -8,4 +8,4 @@ An iOS app for learning vocabulary using flashcards.
 
 - **Features:** Flashcards, spaced repetition, vocabulary learning.
 - **App Store:** https://apps.apple.com/ru/app/world-words/id1670569128
-- **Web Site:** http://g95071v2.beget.tech
+- **Web Site:** http://g95071v2.beget.tech](https://ulianagritchina.github.io/sugrideveloper/

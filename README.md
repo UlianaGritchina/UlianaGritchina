@@ -3,7 +3,7 @@
 
 ### My Own Apps on the App Store
 
-### World Words
+- ### World Words
 An iOS app for learning vocabulary using flashcards.
 > 10K+ downloads, hight user reviews.
 

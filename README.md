@@ -5,6 +5,6 @@
 
 ### World Words
 An iOS app for learning vocabulary using flashcards.
-> 15K+ downloads • №189 in Education
+> 15K+ downloads • №171 in Education
 
 - [App Store](https://apps.apple.com/ru/app/world-words/id1670569128) |  [Website](https://ulianagritchina.github.io/sugrideveloper)
